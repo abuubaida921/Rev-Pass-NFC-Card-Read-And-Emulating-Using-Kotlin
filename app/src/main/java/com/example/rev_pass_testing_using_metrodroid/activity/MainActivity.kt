@@ -1,4 +1,4 @@
-package com.example.rev_pass_testing_using_metrodroid
+package com.example.rev_pass_testing_using_metrodroid.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
